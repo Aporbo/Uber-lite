@@ -1,0 +1,46 @@
+.container-style {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 0px 5px hsla(0, 0%, 0%, 0.171);
+  }
+  .destinationContainerStyle {
+    background-color: white;
+    border: 3px solid black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 3px hsla(150, 5%, 8%, 0.171);
+  }
+  
+  .formContainer {
+    padding: 50px;
+    border-radius: 10px;
+    background-color: rgba(229, 153, 198, 0.87);
+    border: 5px solid black;
+    box-shadow: 0px 5px hsla(0, 0%, 0%, 0.171);
+  }
+  
+  .formContainer input,
+  select {
+    display: block;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid hsl(246, 25%, 77%);
+    font-weight: bolder;
+    margin-bottom: 20px;
+  }
+  .formContainer input[type="submit"] {
+    background-color: hsl(0, 83%, 67%);
+    color: white;
+    font-size: 20px;
+    border-bottom: 3px solid hsl(0, 97%, 42%);
+    max-width: 500px;
+  }
+  
+  ::placeholder {
+    
+    padding-left: 15px;
+    opacity: 1; 
+  }

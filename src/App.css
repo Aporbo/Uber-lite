@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.bg-color{
+  background-image: url('https://image.shutterstock.com/image-vector/cartoon-urban-landscape-road-traffic-600w-737323561.jpg');
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+

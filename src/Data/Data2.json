@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "rideName": "BIKE",
+        "vehicleType": "bike",
+        "image": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "capacity" : 1,
+        "cost" : "120tk"
+        
+    },
+    {
+        "id": 2,
+        "rideName": "CAR",
+        "vehicleType": "car",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6rSTiTidaxawvIAl_2BeuBoDi-jLKLv4Qg&usqp=CAU",        "capacity" : 4,
+        "capacity" : 4,
+        "cost" : "350tk"
+    },
+    {
+        "id": 3,
+        "rideName": "BUS",
+        "vehicleType": "bus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpj9PEDdvXtNMD4ZN_29pIVNGXlv_AeJ1VQ&usqp=CAU",
+        "capacity" : 30,
+        "cost" : "200tk"
+    },
+    {
+        "id": 4,
+        "rideName": "TRAIN",
+        "vehicleType": "train",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9eOqFyL_QxhOImBeOmUnugo9bBAJvIsvCgg&usqp=CAU",
+        "capacity" : 100,
+        "cost" : "250tk"
+    }
+]
